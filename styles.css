@@ -151,3 +151,9 @@ body {
     text-align: center;
     margin: 5em 3em;
 }
+
+@media screen and (max-width: 480px) {
+    .secundario__imagem {
+        width:auto;
+    }
+}
